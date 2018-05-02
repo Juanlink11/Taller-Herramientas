@@ -1,0 +1,21 @@
+A)      moda:2,4
+    media:0.875
+    mediana:2
+    varianza:12.109
+    derivacion estandar:3.479
+    rango:10
+
+b)      moda:3.5,7.5
+    media:4.285
+    mediana:3.5
+    varianza:4.898
+    derivacion estandar:2.233
+    rango:6
+
+c)      moda: no tiene 
+    media:5.5
+    mediana:5.5
+    varianza:8.25
+    desviacion estandar:2.87
+    rango:9
+ -5, 2, -3, -2, 4, 4, 2, 5
